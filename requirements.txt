@@ -1,2 +1,3 @@
-google-genai
 streamlit
+google-genai
+extra-streamlit-components
